@@ -1,0 +1,49 @@
+.align {
+    text-align: right;
+}
+
+.btn {
+    background-color: darkslategray; /* Blue background */
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 12px 16px; /* Some padding */
+    font-size: 24px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
+  
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+.fa:hover {
+    opacity: 0.7;
+}
+  /* Facebook */
+.fa-facebook {
+    color: white;
+  }
+
+ /* Gmail */
+.fa-gmail {
+    color: white;
+}
+ /* LinkdIn */
+.fa-linkdin {
+    color: white;
+}
+
+ /* Call me */
+.fa-call {
+    color: white;
+}
+
+
